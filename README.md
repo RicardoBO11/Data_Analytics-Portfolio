@@ -39,6 +39,7 @@ El objetivo fue recuperar datos mediante consultas de SQL, descargar esas consul
 ### Material visual:
 
 Ver el resultado del proyecto, aquí: (https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
+Ver repositorio, aqui: (https://github.com/RicardoBO11/taxi-data-analysis)
 
 
 # Proyecto #2
@@ -63,33 +64,7 @@ El objetivo fue preparar un conjunto de datos para su posterior análisis, enfoc
 ### Material visual:
 Ver el resultado del proyecto, aquí: (https://www.loom.com/share/9f8011ee838e473e973163fbf3ba29c3)
 
-## Proyecto #3: Análisis de datos de taxis en Chicago
-
-## Contexto:
-Este proyecto explora datos de viajes de taxis en Chicago durante noviembre de 2017. Se analizaron múltiples datasets que incluyen información sobre el número de viajes por compañía, los barrios de destino más frecuentes y la duración de los viajes desde el Loop hasta el Aeropuerto Internacional O’Hare, junto con las condiciones climáticas.
-
-## Análisis:
-
-- Realicé un análisis exploratorio de datos (EDA) usando Python para entender la distribución de viajes por compañía y por barrio.
-
-- Identifiqué los 10 barrios con más finalizaciones de viaje y visualicé los resultados mediante gráficos claros y comparativos.
-
-- Verifiqué y ajusté los tipos de datos para asegurar la consistencia de los análisis.
-
-- Implementé una prueba de hipótesis para evaluar si la duración promedio de los viajes desde el Loop hasta O’Hare cambiaba los sábados con lluvia, definiendo el nivel de significación y planteando las hipótesis nula y alternativa adecuadamente.
-
-## Conclusiones principales:
-
-- Se observó que ciertas compañías de taxis dominan el volumen de viajes, y que algunos barrios son puntos críticos de finalización.
-
-- Los resultados gráficos permitieron identificar patrones de movilidad y comportamiento de los pasajeros en la ciudad.
-
-- La prueba de hipótesis proporcionó insights sobre el impacto del clima y del día de la semana en la duración de los viajes, útil para la planificación operativa y la toma de decisiones basada en datos.
-
-### Material visual:
-Ver el resultado del proyecto, aquí: https://github.com/RicardoBO11/taxi-data-analysis
-
-# Proyecto #4: Aplicación Web para Análisis de Datos de Vehículos
+# Proyecto #3: Aplicación Web para Análisis de Datos de Vehículos
 
 ## Contexto:
 Esta aplicación web, desarrollada con Streamlit, permite explorar un dataset real de vehículos en Estados Unidos. Está diseñada para que cualquier persona pueda visualizar y analizar datos de manera sencilla, sin necesidad de conocimientos de programación.
