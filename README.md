@@ -39,6 +39,8 @@ El objetivo fue recuperar datos mediante consultas de SQL, descargar esas consul
 ### Material visual:
 
 Ver el resultado del proyecto, aquí: (https://www.loom.com/share/c7e7f66b75614288b6e0dcc5120a7935)
+
+
 Ver repositorio, aqui: (https://github.com/RicardoBO11/taxi-data-analysis)
 
 
